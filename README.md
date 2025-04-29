@@ -1,6 +1,6 @@
-# 💡 Desafio GitHub + Markdown – DIO
+# 💡 Desafio GitHub + Markdown – EBAC | DIO
 
-Olá! Me chamo Gabriel e este é meu repositório criado especialmente para o desafio prático proposto na minha jornada com a DIO.
+Olá! Me chamo Gabriel e este é meu repositório criado especialmente para o desafio prático proposto na minha jornada com a DIO e a EBAC.
 
 Neste desafio, o objetivo foi experimentar de forma prática os principais recursos do GitHub, incluindo:
 
